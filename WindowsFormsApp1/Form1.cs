@@ -20,5 +20,10 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("Hello world !");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello everyone !");
+        }
     }
 }
