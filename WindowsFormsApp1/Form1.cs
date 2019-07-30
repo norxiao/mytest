@@ -30,7 +30,9 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("Very Good !");
             MessageBox.Show("Add something");
-            MessageBox.Show("Add something else);
+            MessageBox.Show("Add something else");
+            MessageBox.Show("Add something new");
+            MessageBox.Show("Add ...");
         }
     }
 }
